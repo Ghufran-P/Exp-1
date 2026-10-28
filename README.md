@@ -1,5 +1,3 @@
-<img width="1157" height="928" alt="Screenshot 2026-10-21 110930" src="https://github.com/user-attachments/assets/52834aab-4b8d-4210-bc87-c0d541a5aa45" /># Exp-1 ATM & BANKING SYSTEM
-
 # AIM:
 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
